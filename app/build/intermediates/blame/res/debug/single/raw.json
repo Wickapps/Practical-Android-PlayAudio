@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\recordscratch.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\recordscratch.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\scream1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\scream1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\birds1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\birds1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\explosion1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\racecar1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\racecar1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\laugh.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\laugh.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\machinegun.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\machinegun.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\slug3.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\slug3.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mjwcondsr.m4a",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\mjwcondsr.m4a"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\carstop1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\carstop1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\telephone1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\telephone1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\markstorm.ogg",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\markstorm.ogg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\windchimes.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\windchimes.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\markplay2.wav",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\markplay2.wav"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miccompare.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\miccompare.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\carcrash1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\carcrash1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gallactic1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\gallactic1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\slug1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\slug1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\door3.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\door3.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\soundfile.txt",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\soundfile.txt"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\doorslam1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\doorslam1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\drain.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\drain.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dog1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\dog1.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gunshot1.mp3",
+        "source": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\raw\\gunshot1.mp3"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\PlayAudio\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 59,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 47,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 50,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 50,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\PlayAudio\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 173
+                    }
+                }
+            }
+        ]
+    }
+]
